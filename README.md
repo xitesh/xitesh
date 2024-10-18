@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/user-attachments/assets/06489afe-5318-4d17-b213-ec64555bb7e3)
+![MasterHead](https://github.com/user-attachments/assets/236c27dc-15d8-428e-aa93-b2d272b2609e)
 
 # 🧔🏻‍♂️ About Me:
 🐧 I'm a Linux User<br>💻 Full Stack Developer<br>🤝 Let's Build Open Source Projects<br>💬 Ask me about Linux and Development<br>😎 Fun fact I use Arch, btw
