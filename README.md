@@ -10,8 +10,8 @@ I’m Nitesh Nagar, a passionate full-stack developer with a focus on the MERN s
 * ✉️  You can contact me at [xxitesh@gmail.com](mailto:xxitesh@gmail.com)
 
 <a href="https://www.github.com/xitesh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/xitesh?logo=github&style=for-the-badge&color=ffffff&labelColor=000000" /></a><a href="https://www.x.com/xxitesh" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/xxitesh?logo=twitter&style=for-the-badge&color=ffffff&labelColor=000000"
+src="https://img.shields.io/github/followers/xitesh?logo=github&style=for-the-badge&color=3382ed&labelColor=0f172a" /></a><a href="https://www.x.com/xxitesh" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/xxitesh?logo=twitter&style=for-the-badge&color=3382ed&labelColor=0f172a"
 /></a>
 
 ### Skills
@@ -30,18 +30,4 @@ src="https://img.shields.io/twitter/follow/xxitesh?logo=twitter&style=for-the-ba
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/xitesh"><img src="https://github-readme-stats.vercel.app/api?username=xitesh&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&show_icons=true" alt="xitesh's GitHub stats" /></a>
-
-<a href="http://www.github.com/xitesh"><img src="https://github-readme-streak-stats.herokuapp.com/?user=xitesh&stroke=ffffff&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/xitesh"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=xitesh&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/xitesh" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitesh&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/xitesh/React-Todo-App" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=React-Todo-App&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a><a href="https://github.com/xitesh/BeeLog" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=BeeLog&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-<br /><br /><br /><br /><br />
-
-<div width="100%" align="center"><a href="https://github.com/xitesh/awesome-links" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=awesome-links&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=000000&hide_border=true&locale=en" /></a></div>
+<a href="http://www.github.com/xitesh"><img src="https://github-readme-stats.vercel.app/api?username=xitesh&show_icons=true&hide=&count_private=true&title_color=3382ed&text_color=ffffff&icon_color=3382ed&bg_color=0f172a&hide_border=true&show_icons=true" alt="xitesh's GitHub stats" /></a>
