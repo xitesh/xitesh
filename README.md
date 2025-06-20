@@ -9,7 +9,7 @@ I'm a Linux User.<br>Full Stack Developer.<br>Youtube Content Creator.<br>Passio
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=xitesh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=xitesh&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xitesh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=xitesh&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=full)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=xitesh&limit=5&theme=catppuccin_mocha&combine_all_yearly_contributions=true)
