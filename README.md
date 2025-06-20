@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👀 About Me:
 I'm a Linux User.<br>Full Stack Developer.<br>Youtube Content Creator.<br>Passionate Open Source Contributor.
 
 
