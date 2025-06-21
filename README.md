@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+<img style="width:100%" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"/>
 </p>
 
 ### 👀 About me
@@ -27,7 +27,7 @@
 #
 
 <div align="center">
-<a href="https://app.daily.dev/xitesh"><img src="https://api.daily.dev/devcards/v2/O7WTRfxeYqqJNCjh2RLl7.png?type=wide&r=69z" width="652" alt="Nitesh Nagar's Dev Card"/></a>
+<a  href="https://app.daily.dev/xitesh"><img src="https://api.daily.dev/devcards/v2/O7WTRfxeYqqJNCjh2RLl7.png?type=wide&r=69z" width="100%" alt="Nitesh Nagar's Dev Card"/></a>
 </div>
 
 #
@@ -38,7 +38,7 @@
   <a href="https://youtube.com/@theopensourcestudio?si=OyxSwK6teOxan-vj"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/xitesh"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://xitesh.github.io/xitesh-css-portfolio/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
-  <a href="https://www.paypal.com/paypalme/xitesh"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+  <a href="https://www.paypal.com/paypalme/xitesh"><img alt="Paypal" title="Paypal" src="https://img.shields.io/badge/-paypal-blue?style=for-the-badge&logo=paypal=white"/></a>
   <a href="https://www.instagram.com/xxitesh"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 
