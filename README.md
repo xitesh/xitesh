@@ -4,7 +4,7 @@
 
 <p align="center">
 <a href="https://github.com/xitesh"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xitesh?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-<a href="https://github.com/xitesh"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+<a href="https://github.com/xitesh"><img alt="views" title="Profile Views" src="https://komarev.com/ghpvc/?username=xitesh&label=Profile%20Views&color=ff3366&style=for-the-badge"/></a>
 </p>
 
 <p align="center">
