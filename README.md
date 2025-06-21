@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-<img style="width:100%" alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"/>
+<img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=nord"/>
 </p>
 
 ### 👀 About me
