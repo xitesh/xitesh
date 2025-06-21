@@ -27,7 +27,7 @@
 #
 
 <div align="center">
-<a  href="https://app.daily.dev/xitesh"><img src="https://api.daily.dev/devcards/v2/O7WTRfxeYqqJNCjh2RLl7.png?type=wide&r=69z" width="100%" alt="Nitesh Nagar's Dev Card"/></a>
+<a  href="https://app.daily.dev/xitesh"><img src="https://api.daily.dev/devcards/v2/O7WTRfxeYqqJNCjh2RLl7.png?type=wide&r=69z" width="652" alt="Nitesh Nagar's Dev Card"/></a>
 </div>
 
 #
