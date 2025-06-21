@@ -1,22 +1,125 @@
-# 👀 About Me:
-I'm a Linux User.<br>Full Stack Developer.<br>Youtube Content Creator.<br>Passionate Open Source Contributor.
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png"/></a>
 
+<h3 align="center">Hey there, I'm <a href="https://github.com/xitesh">Nitesh Nagar</a></h3>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/xitesh) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xxitesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://youtube.com/@theopensourcestudio?si=7Ovz84NR-mYKpJDd) 
+<p align="center">
+<a href="https://github.com/xitesh"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/xitesh?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+<a href="https://github.com/xitesh"><img alt="views" title="Github views" src="https://freshidea.com/jonah/app/ghpvc/"/></a>
+</p>
 
-# 💻 Tech Stack:
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=flat-square&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=xitesh&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=xitesh&theme=catppuccin_mocha&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=xitesh&theme=catppuccin_mocha&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+<img alt="Quotes" src="https://quotes-github-readme.vercel.app/api?type=horizontal"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=xitesh&icon=0&color=0)](https://visitcount.itsvg.in)
+### 👀 About me
 
-  ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/xitesh) 
+```js
+{
+    name: "Nitesh Nagar",
+    age: 22,
+    location: "India",
+    role : "Full Stack Developer",
+    degree : "BCA",
+    portfolio : "xitesh.me"
+}
+```
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+#
+
+<div align="center">
+<a href="https://app.daily.dev/xitesh"><img src="https://api.daily.dev/devcards/v2/O7WTRfxeYqqJNCjh2RLl7.png?type=wide&r=69z" width="652" alt="Nitesh Nagar's Dev Card"/></a>
+</div>
+
+#
+
+### 🌐 Connect with me:
+
+<div align="center">
+  <a href="https://youtube.com/@theopensourcestudio?si=OyxSwK6teOxan-vj"><img alt="YouTube" title="YouTube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/xitesh"><img alt="LinkedIn" title="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://xitesh.github.io/xitesh-css-portfolio/"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.paypal.com/paypalme/xitesh"><img alt="Buy me a coffee" title="Buy me a coffee" src="https://img.shields.io/badge/-Buy%20me%20a%20coffee-orange?style=for-the-badge&logo=buymeacoffee&logoColor=white"/></a>
+  <a href="https://www.instagram.com/xxitesh"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-pink?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+</div>
+
+#
+
+### 📘 Top Projects
+
+<div>
+<span align="left">
+    <a href="https://github.com/xitesh/qevo"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=qevo&hide_border=true&theme=github_dark" alt="Qevo"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/xitesh/React-Todo-App"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=React-Todo-App&hide_border=true&theme=github_dark" alt="React Todo App"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/xitesh/BeeLog"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=BeeLog&hide_border=true&theme=github_dark" alt="BeeLog"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/xitesh/React-Weather-App"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=React-Weather-App&hide_border=true&theme=github_dark" alt="React Weather App"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/xitesh/system-monitor-njs"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=system-monitor-njs&hide_border=true&theme=github_dark" alt="System Monitor Node Js"></a>
+</span>
+<span align="left">
+    <a href="https://github.com/xitesh/tux-cast"><img  src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=xitesh&repo=tux-cast&hide_border=true&theme=github_dark" alt="Tux Cast"></a>
+</span>
+</div>
+
+#
+
+### Frontend Skills:
+
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="HTML" title="HTML" src="https://skillicons.dev/icons?i=html" />
+    <img alt="CSS" title="CSS" src="https://skillicons.dev/icons?i=css" />
+    <img alt="JavaScript" title="JavaScript" src="https://skillicons.dev/icons?i=js" />
+    <img alt="TypeScript" title="TypeScript" src="https://skillicons.dev/icons?i=ts" />
+    <img alt="nextjs" title="nextjs" src="https://skillicons.dev/icons?i=nextjs" />
+    <img alt="react" title="react" src="https://skillicons.dev/icons?i=react" />
+    <img alt="sass" title="sass" src="https://skillicons.dev/icons?i=sass" />
+    <img alt="tailwind" title="tailwind" src="https://skillicons.dev/icons?i=tailwind" />
+    <img alt="bootstrap" title="bootstrap" src="https://skillicons.dev/icons?i=bootstrap" />
+</div>
+
+### Backend Skills:
+
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="Nodejs" title="Nodejs" src="https://skillicons.dev/icons?i=nodejs" />
+    <img alt="Express" title="Express" src="https://skillicons.dev/icons?i=express" />
+    <img alt="Mongodb" title="Mongodb" src="https://skillicons.dev/icons?i=mongodb" />
+    <img alt="PostgreSQL" title="PostgreSQL" src="https://skillicons.dev/icons?i=postgresql" />
+</div>
+
+### Other Tools:
+
+<div style="display: flex; flex-wrap: wrap; gap:1rem">
+    <img alt="Linux" title="Linux" src="https://skillicons.dev/icons?i=linux" />
+    <img alt="Bash Scripting" title="Bash Scripting" src="https://skillicons.dev/icons?i=bash" />
+    <img alt="git" title="git" src="https://skillicons.dev/icons?i=git" />
+    <img alt="AWS" title="AWS" src="https://skillicons.dev/icons?i=aws" />
+    <img alt="Azure" title="Azure" src="https://skillicons.dev/icons?i=azure" />
+    <img alt="vscode" title="vscode" src="https://skillicons.dev/icons?i=vscode" />
+
+</div>
+
+#
+
+### Trophies
+
+<a href="https://github.com/xitesh">
+    <img src="https://github-profile-trophy.vercel.app/?username=xitesh&row=4&theme=darkhub&no-frame=true&margin-w=15&margin-h=15"/>
+</a>
+
+#
+
+<img style="width:100%" alt="Streak Stats" src="https://github-readme-streak-stats.herokuapp.com/?user=xitesh&theme=github-dark-dimmed&hide_border=true"/>
+
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api?&count_private=true&include_all_commits=true&username=xitesh&theme=github_dark_dimmed&custom_title=GitHub+Stats&hide_border=true"/>
+
+#
+
+<img style="width:100%" alt="Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xitesh&theme=github_dark_dimmed&show_icons=true&hide_border=true&layout=compact"/>
